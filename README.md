@@ -6,6 +6,7 @@ functions in the future.
 
 ## Mandatory
 
+```
 - isalpha
 - isdigit
 - isalnum
@@ -29,9 +30,10 @@ functions in the future.
 - atoi
 - calloc
 - strdup
-
+```
  ### Aditionals
  
+ ```
  - ft_substr
  - ft_strjoin
  - ft_strtrim
@@ -43,9 +45,10 @@ functions in the future.
  - ft_putstr_fd
  - ft_putendl_fd
  - ft_putnbr_fd
- 
+ ```
  ## Bonus
  
+ ```
  - ft_lstnew
  - ft_lstadd_front
  - ft_lstsize
@@ -55,3 +58,4 @@ functions in the future.
  - ft_lstclear
  - ft_lstiter
  - ft_lstmap
+```
